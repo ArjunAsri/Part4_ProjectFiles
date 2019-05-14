@@ -1,0 +1,6 @@
+edge
+emptybed
+facedown
+faceup
+leftlateral
+rightlateral
